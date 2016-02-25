@@ -1,0 +1,18 @@
+name: OpenMRS
+desc: OpenMRS is an application which enables design of a customized medical records system with no programming knowledge (although medical and systems analysis knowledge is required). It is a common framework upon which medical informatics efforts in developing countries can be built.
+site: http://openmrs.org
+tags:
+- java
+- mysql
+- javascript
+- spring
+- hibernate
+- medical
+- clinical
+- emr
+- android
+- ios
+- angular
+upforgrabs:
+  name: Introductory Tickets
+  link: https://issues.openmrs.org/browse/TRUNK-1931?filter=10068
